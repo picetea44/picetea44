@@ -1,33 +1,26 @@
-## Hoichang Jung
+Backend developer (Java, Spring) in the 8th cohort of **[Woowa Tech Course](https://www.woowacourse.io/)**, a full-time program run by Woowa Brothers (Baemin), a Delivery Hero company.
 
-Backend developer (Java, Spring) in the 8th cohort of [Woowa Tech Course](https://www.woowacourse.io/), a full-time software engineering program run by Woowa Brothers (Baemin), a Delivery Hero company.
+These days I focus on failure handling: retries, duplicate sends, timeouts, and the metrics that make problems visible.
 
-These days I focus on failure handling in backend services: retries, duplicate sends, timeouts, and the metrics that make problems visible.
+### CareerForm
 
-### Experience
+<sub>Chrome extension that autofills job applications · Woowa Tech Course team project · Aug 2026 – present</sub>
 
-**[CareerForm](https://github.com/woowacourse-teams/2026-career-form)** · Chrome extension that autofills job applications · [Website](https://careerform-drab.vercel.app) (Korean)  
-Team project at Woowa Tech Course · Aug 2026 – present · Spring Boot, MongoDB, Spring AI, TypeScript
+- **Job-alert push service** — MongoDB leases, exponential backoff, latency metrics
+- **LLM form-analysis API** — first version, Spring AI structured output, de-identified input only
+- **AI-agent dev workflow** — Codex skills and hooks: issue → approval → draft PR → human review
 
-- Built the job-alert push service: senders claim each delivery with a MongoDB lease, failed sends retry with exponential backoff, and delivery latency is exported as metrics
-- Wrote the first version of the LLM form-analysis API with Spring AI structured output; the model receives only de-identified form structure
-- Built the team's AI-agent development workflow with Codex skills and hooks: issue plan → human approval → implementation, verification, and review → draft PR → human review and merge, backed by a shared knowledge wiki for the agents
+<sub>Spring Boot · MongoDB · Spring AI · TypeScript · [Repository](https://github.com/woowacourse-teams/2026-career-form) · [Website](https://careerform-drab.vercel.app) (Korean)</sub>
 
-**SETA** · Collaboration-matching platform for musicians  
-Startup team in the Kwangwoon University Campus Town program · 2025 · Development lead · Spring
+### SETA
 
-- Led backend development and designed the data model and the position and genre search used for matching
-- Validated demand with a survey of 20 musicians; the team was selected for the program's startup incubation
+<sub>Collaboration-matching platform for musicians · Kwangwoon University Campus Town startup program · 2025</sub>
 
-### Tech
+- **Development lead** — Spring backend, data model, position and genre search for matching
+- **Demand check** — surveyed 20 musicians; the team was selected for the program's incubation
+
+### Tech & certifications
 
 Java · Spring Boot · Spring AI · MongoDB · AWS · Docker · GitHub Actions
 
-### Certifications
-
-- AWS Certified Solutions Architect – Associate
-- Korean IT certifications: Engineer Information Processing · SQL Developer (SQLD) · Linux Master, Advanced Level
-
-### Contact
-
-[LinkedIn](https://www.linkedin.com/in/hoichang-jung)
+<sub>AWS Certified Solutions Architect – Associate · Engineer Information Processing · SQL Developer (SQLD) · Linux Master, Advanced Level</sub>
